@@ -1,4 +1,5 @@
 ![Language: Python](https://img.shields.io/badge/Language-Python-blue)
+![Updated](https://img.shields.io/badge/Updated-May_2025-success)
 # ML-Project-BreastCancer
 
 This project aims to build and evaluate multiple machine learning models to classify breast cancer tumors as malignant or benign using the Breast Cancer Wisconsin Diagnostic dataset.
