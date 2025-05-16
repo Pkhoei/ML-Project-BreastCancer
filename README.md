@@ -66,5 +66,14 @@ Open Project1.ipynb in Jupyter Notebook or VS Code and run all cells.
 GitHub: [@Pkhoei](https://github.com/Pkhoei)
 
 ---
+### 📘 License
 
-⭐️ If you find this useful, feel free to star the repo!
+This project is open-source and available under the MIT License.  
+It was developed as part of my personal learning journey using scikit-learn and Jupyter Notebook.
+
+---
+
+### 💡 Feedback & Contributions
+
+If you find this project helpful, feel free to ⭐ star it or share it with others.  
+Contributions and feedback are welcome!
