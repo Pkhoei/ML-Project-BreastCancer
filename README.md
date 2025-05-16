@@ -1,5 +1,6 @@
 ![Language: Python](https://img.shields.io/badge/Language-Python-blue)
 ![Updated](https://img.shields.io/badge/Updated-May_2025-success)
+![Model Type](https://img.shields.io/badge/Model-Type:Classification-purple)
 ![Best Model](https://img.shields.io/badge/Best_Model-ANN_Accuracy:99%25-orange)
 Fix badge percent issue
 
