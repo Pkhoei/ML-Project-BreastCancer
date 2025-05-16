@@ -23,6 +23,20 @@ This project aims to build and evaluate multiple machine learning models to clas
 
 ---
 
+## 📊 Model Performance Charts
+
+### ✅ Accuracy Comparison (Test Set)
+![Accuracy Test](Accuracy_comparison_test.png)
+
+### 📈 Accuracy Comparison (Train Set)
+![Accuracy Train](Accuracy_comparison_train.png)
+
+### 🎯 Precision Comparison
+![Precision](Precision_comparison.png)
+
+### 🔁 Recall Comparison
+![Recall](Recall_comparison.png)
+
 ## 🛠️ Workflow Overview
 
 1. Dataset Exploration  
