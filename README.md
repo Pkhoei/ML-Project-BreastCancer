@@ -86,7 +86,10 @@ This project is open-source and available under the MIT License.
 It was developed as part of my personal learning journey using scikit-learn and Jupyter Notebook.
 
 ---
+## 📌 Conclusion
 
+Among all evaluated models, the Artificial Neural Network (ANN) achieved the highest test accuracy (99%) along with high precision and recall values.  
+This indicates that ANN performs best for this classification task and is the most suitable model for detecting breast cancer tumors using the given dataset.
 ### 💡 Feedback & Contributions
 
 If you find this project helpful, feel free to ⭐ star it or share it with others.  
