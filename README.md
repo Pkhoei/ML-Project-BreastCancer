@@ -2,6 +2,7 @@
 ![Updated](https://img.shields.io/badge/Updated-May_2025-success)
 ![Model Type](https://img.shields.io/badge/Model-Type:Classification-purple)
 ![Best Model](https://img.shields.io/badge/Best_Model-ANN_Accuracy:99%25-orange)
+![Precision](https://img.shields.io/badge/Precision-98%25-blueviolet)
 Fix badge percent issue
 
 # ML-Project-BreastCancer
